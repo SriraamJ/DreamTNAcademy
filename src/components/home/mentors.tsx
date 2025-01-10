@@ -10,6 +10,8 @@ import IconArrowBack from '@mui/icons-material/ArrowBack'
 import IconArrowForward from '@mui/icons-material/ArrowForward'
 import { MentorCardItem } from '@/components/mentor'
 import { data } from './mentors.data'
+import SliderArrow from './path/to/SliderArrow';
+
 
 interface SliderArrowArrow {
   onClick?: () => void
